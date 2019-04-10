@@ -1,0 +1,11 @@
+C:\Users\naienko\workspace\csharp\exercises\planner\obj\Debug\netcoreapp2.2\Planner.csprojAssemblyReference.cache
+C:\Users\naienko\workspace\csharp\exercises\planner\obj\Debug\netcoreapp2.2\Planner.csproj.CoreCompileInputs.cache
+C:\Users\naienko\workspace\csharp\exercises\planner\obj\Debug\netcoreapp2.2\Planner.AssemblyInfoInputs.cache
+C:\Users\naienko\workspace\csharp\exercises\planner\obj\Debug\netcoreapp2.2\Planner.AssemblyInfo.cs
+C:\Users\naienko\workspace\csharp\exercises\planner\bin\Debug\netcoreapp2.2\Planner.deps.json
+C:\Users\naienko\workspace\csharp\exercises\planner\bin\Debug\netcoreapp2.2\Planner.runtimeconfig.json
+C:\Users\naienko\workspace\csharp\exercises\planner\bin\Debug\netcoreapp2.2\Planner.runtimeconfig.dev.json
+C:\Users\naienko\workspace\csharp\exercises\planner\bin\Debug\netcoreapp2.2\Planner.dll
+C:\Users\naienko\workspace\csharp\exercises\planner\bin\Debug\netcoreapp2.2\Planner.pdb
+C:\Users\naienko\workspace\csharp\exercises\planner\obj\Debug\netcoreapp2.2\Planner.dll
+C:\Users\naienko\workspace\csharp\exercises\planner\obj\Debug\netcoreapp2.2\Planner.pdb
